@@ -18,6 +18,6 @@ This tool converts speech in audio files to text using the Google Cloud Speech-t
 
 This tool extracts the domain names from URLs delimited by new lines and semicolons. The domain names in the output will resemble the format of the input.  It is designed to work well with lines of domain names copied from a spreadsheet.  👉 [🔗 Open https://dm-gadgets.jasontc.net/domain_name_extractor/](https://dm-gadgets.jasontc.net/domain_name_extractor/)
 
-## ⚠️ Warranties and liabilities
+## ⚠️ Disclaimer
 
 The tools are provided without warranty of any kind.  The developer is not liable for any loss or damage arising from your use of them.
